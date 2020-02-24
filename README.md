@@ -1,10 +1,10 @@
-# Portfolio
+### Portfolio
 
-# contact 
+### contact 
 
 * juhkuk@live.com
 
-# about me
+### about me
 
 * My name is Juhani Kangas im a 16 year old student at myyrmäki's vocational collage varia. Im currently studying the basics of programming, so far i love it im very interested in learning 
 more and i would like to someday have job that involved programming. 
@@ -14,17 +14,38 @@ more and i would like to someday have job that involved programming.
 
 
 
-#vocabulary
+###vocabulary
 
-### Abstraktio (Abstraction)
-### Algoritmi (Algoritm)
-### Bitti (Bit)
-### Debuggaus (Debug)
-### DNS-nimipalvelujärjestelmä (Domain name service)
-### Ehtolause / Valinta (Conditional statement / Selection)
-### Esineiden internet (Internet of Things)
-### Ethernet-kaapeli (Ethernet Cable)
-### Emolevy (Motherboard)
+
+* Abstraktio (Abstraction)
+
+* Abstraction means the quality of dealing with ideas rather than events.
+
+* Algoritmi (Algoritm)
+
+* Algorythm means a process or set of rules to be followed in calculations or other problem-solving operations.
+
+* Bitti (Bit)
+
+* Bit is a computers smallest unit of information.
+
+* Debuggaus (Debug)
+
+* Debug means removing/identifying errors.
+
+* DNS-nimipalvelujärjestelmä (Domain name service)
+
+* DNS is an Internet service that translates domain names into IP addresses.
+
+* Ehtolause / Valinta (Conditional statement / Selection)
+
+* Conditional statement / Selection allows a program to test several conditions.
+
+* Esineiden internet (Internet of Things)
+
+*
+Ethernet-kaapeli (Ethernet Cable)
+Emolevy (Motherboard)
 Funktio / Aliohjelma (Function)
 Grafiikkaprosessori (GPU, Graphics Procerssing unit)
 Haittaohjelma (Malware)
@@ -73,7 +94,3 @@ Tulostuslaite (Output device)
 Vahvistusoppiminen (Reinforvement learning)
 Verkkotopologia (Network topology)
 Vinouma (Bias)
-                                 \       /
-
-                                 O       O
-                        ___________________________
