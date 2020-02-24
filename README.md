@@ -101,8 +101,9 @@ Sequence is a order of things following eatch other.
 
  Machine learning is a machine that learns by using algorythms.
 
-* Komponentti (Component)
+* (Component)
 
+ Component is a part of an computer
 
 * Koodi (Code)
 
@@ -112,21 +113,24 @@ Sequence is a order of things following eatch other.
 
  OS communicates with the hardware and allows other programs to run
 
-* Laitteisto / Rauta (Hardware)
+* (Hardware)
 
   Hardware in simple words a collection of computer parts.
 
-* Massamuisti (Mass storage)
+* (Mass storage)
 
+  Mass storage is for storing large amounts of data.
 
+* (Variable)
 
-* Muuttuja (Variable)
+ Variable is a word or a number that can be changed and used easely
 
+* (Unsupervised learning)
 
-* Ohjaamaton oppiminen (Unsupervised learning)
+ Unsupervised learning is used to train AI.
 
+* (supervised learning)
 
-* Ohjattu oppiminen (supervised learning)
 
 
 * Ohjelma (Program)
@@ -189,12 +193,13 @@ Sequence is a order of things following eatch other.
 * Tekoäly (Artificial intelligence)
 
 
+
 * Tietorakenne (Data structures)
 
 
 * Toistorakenne (Loop)
 
-
+ Loop is a continously running 
 * Totuusarvo (Boolean)
 
 
