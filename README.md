@@ -19,37 +19,55 @@ more and i would like to someday have job that involved programming.
 
 * Abstraktio (Abstraction)
 
-* Abstraction means the quality of dealing with ideas rather than events.
+ Abstraction means the quality of dealing with ideas rather than events.
 
 * Algoritmi (Algoritm)
 
-* Algorythm means a process or set of rules to be followed in calculations or other problem-solving operations.
+ Algorythm means a process or set of rules to be followed in calculations or other problem-solving operations.
 
 * Bitti (Bit)
 
-* Bit is a computers smallest unit of information.
+ Bit is a computers smallest unit of information.
 
 * Debuggaus (Debug)
 
-* Debug means removing/identifying errors.
+ Debug means removing/identifying errors.
 
 * DNS-nimipalvelujärjestelmä (Domain name service)
 
-* DNS is an Internet service that translates domain names into IP addresses.
+ DNS is an Internet service that translates domain names into IP addresses.
 
 * Ehtolause / Valinta (Conditional statement / Selection)
 
-* Conditional statement / Selection allows a program to test several conditions.
+ Conditional statement / Selection allows a program to test several conditions.
 
 * Esineiden internet (Internet of Things)
 
-*
-Ethernet-kaapeli (Ethernet Cable)
-Emolevy (Motherboard)
-Funktio / Aliohjelma (Function)
-Grafiikkaprosessori (GPU, Graphics Procerssing unit)
-Haittaohjelma (Malware)
-HTTP (Hypertext transfer protocol)
+ A network of Internet connected objects able to collect and exchange data.
+
+* Ethernet-kaapeli (Ethernet Cable)
+
+ is used for wired networks
+
+* Emolevy (Motherboard)
+
+ Motherboard  board contanes the principal components of a computer.
+
+* Funktio / Aliohjelma (Function)
+
+ Function contanes one or more variables
+
+* Grafiikkaprosessori (GPU, Graphics Procerssing unit)
+
+ GPU is a circuit that is designed to create images fast to an display device
+
+* Haittaohjelma (Malware)
+
+ Malware is a software taht is  made to damage a computer system.
+
+* HTTP (Hypertext transfer protocol)
+
+
 HTTPS (Hypertext transfer protocol secure)
 IP-osoite (IP-address)
 Joukkoistaminen (Crowdsourcing)
