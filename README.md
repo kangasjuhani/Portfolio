@@ -10,7 +10,11 @@
 more and i would like to someday have job that involved programming. 
 
 
+### My projects
 
+
+Karting game: https://connect.unity.com/p/juhanin-karting-peli
+2D Platformer: https://connect.unity.com/p/2d-platformer-52
 
 
 
