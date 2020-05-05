@@ -6,15 +6,26 @@
 
 ### about me
 
-* My name is Juhani Kangas im a 16 year old student at myyrmäki's vocational collage varia. Im currently studying the basics of programming, so far i love it im very interested in learning 
-more and i would like to someday have job that involved programming. 
+* My name is Juhani Kangas im a 16 year old student at myyrmäki's vocational collage varia. Im currently studying the basics of programming,
+so far i love it im very interested in learning more and i would like to someday have job that involved programming. 
 
 
 ### My projects
 
+* Unity Beginner course
 
 Karting game: https://connect.unity.com/p/juhanin-karting-peli
 2D Platformer: https://connect.unity.com/p/2d-platformer-52
+
+challenge 1 >>>  https://connect.unity.com/p/challenge-1-8
+project  2 >>>  https://connect.unity.com/p/project-2-5
+challenge 2 >>>  https://connect.unity.com/p/challenge-2-3
+project  3 >>>  https://connect.unity.com/p/project-3-1
+Challenge 3 >>>  https://connect.unity.com/p/challenge-3-2
+project  4 >>>  https://connect.unity.com/p/project-4-1
+Challenge 4 >>>  https://connect.unity.com/p/challenge-4-2
+project  5 >>>  https://connect.unity.com/mg/other/project-5-1
+Challenge 5 >>>  https://connect.unity.com/mg/other/challenge-5-2
 
 
 
@@ -127,7 +138,7 @@ Sequence is a order of things following eatch other.
 
 * (Variable)
 
- Variable is a word or a number that can be changed and used easely
+ Variable is a word or a number that can be changed or used easely
 
 * (Unsupervised learning)
 
@@ -135,24 +146,30 @@ Sequence is a order of things following eatch other.
 
 * (supervised learning)
 
-
+Superviced learning is a method of machine learning related to artificial intelligence,
 
 * Ohjelma (Program)
 
+Program is a set of instructions that allow the computer to perform the desired action
 
 * Ohjelmoinnillinen ajattelu (Computational thinking)
 
+Computational thinking is making a solution so that it can be run on a computer.
 
 * Ohjelmointikieli (Programming language)
 
+A programming language is a set of grammar rules for controlling a computer
 
 * Ongelmien purkaminen osiin (Decomposition)
 
+Decomposition is making a problem simpler by solving it piece by piece.
 
 * Palvelin (Server)
 
+Servers provide various services to other programs either over a computer network or locally on the same computer.
 
 * Palveuntarjoaja (Internet service provider, ISP)
+
 
 
 * Pilvi (Cloud computing)
